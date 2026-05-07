@@ -41,7 +41,7 @@ No nível Aventureiro, você expandirá o sistema para incluir a comparação an
 
 ## 🏅 Nível Mestre
 
-No nível Mestre, o desafio se intensifica com a adição de funcionalidades avançadas, como menus dinâmicos e lógica de decisão complexa com operadores ternários.
+ No nível Mestre, o desafio se intensifica com a adição de funcionalidades avançadas, como menus dinâmicos e lógica de decisão complexa com operadores ternários.
 
 ### 🆕 Diferença em relação ao Nível Aventureiro:
 - **Escolha de Dois Atributos:** O usuário poderá escolher dois atributos para comparação entre as cartas.
